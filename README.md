@@ -19,3 +19,15 @@ Intencionalmente inseri questionamentos sobre a autoria do conteúdo, desafiando
 
 ## 💭 Reflexão
 O processo de criação deste episódio de podcast destacou o potencial das IAs em criar conteúdo que se aproxima muito do estilo humano, tanto em termos de linguagem quanto de estrutura. Este experimento não apenas educa sobre IAs, mas também demonstra suas capacidades, desafiando percepções sobre o que é criado por humanos versus máquinas. A reflexão principal é sobre a crescente habilidade das IAs em imitar a criatividade humana e como isso pode impactar a produção de conteúdo no futuro. Isso levanta questões éticas e práticas sobre a autoria, originalidade e o papel das IAs na criação de conteúdo, incentivando uma discussão mais ampla sobre a integração dessas tecnologias em nossas vidas.
+
+
+
+## 👨‍💻 Expert
+
+<p>
+    <p>&nbspIgor Guerra<br>
+    &nbsp;
+    <a href="www.linkedin.com/in/igorguerrad"  >LinkedIn</a>
+</p>
+<br/><br/>
+<p>
