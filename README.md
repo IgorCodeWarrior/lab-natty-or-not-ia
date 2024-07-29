@@ -4,8 +4,9 @@
 ## 📒 Descrição
 Criei um episódio fictício para o podcast "CodeWarriors", apresentado por Igor, focando no tema das inteligências artificiais (IA) e tentando confundir os leitores/ouvintes sobre se o conteúdo foi realmente criado pelo Igor ou por uma IA.
 
-## 🤖 Tecnologias Utilizadas
-ChatGPT
+## 💻 Tecnologias utilizadas no projeto
+- [ChatGPT](https://chat.openai.com/) 
+- [ElevenLabs](https://beta.elevenlabs.io/)
 
 ## 🧐 Processo de Criação
 Intencionalmente inseri questionamentos sobre a autoria do conteúdo, desafiando os ouvintes a discernirem se o episódio foi criado por Igor ou por uma IA. Isso foi feito para envolver o público e instigar a reflexão sobre a capacidade das IAs em replicar estilos humanos.
